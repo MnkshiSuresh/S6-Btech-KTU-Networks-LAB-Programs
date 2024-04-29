@@ -1,4 +1,4 @@
-                         #include <stdio.h>
+                           #include <stdio.h>
 struct router{
 unsigned cost[20];
 unsigned from[20];
